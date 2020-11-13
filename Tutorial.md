@@ -5,7 +5,8 @@
 ## Segundo passo - Abrir o Git Bash na pasta
 
 ## Terceiro passo - executar o comando: git init
-(Criar todo conteudo que deverá existir na pasta)
+### Serve para inicializar o GIT dentro de uma pasta
+(Crie todo conteudo que deverá existir na pasta)
 
 ## Quarto passo - executar o comando git add *
 (O * é pra adicionar tudo da pasta)
