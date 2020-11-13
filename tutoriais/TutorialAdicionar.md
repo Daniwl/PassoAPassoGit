@@ -4,6 +4,12 @@ Toda vez que for subir um arquivo existente que foi modificado, deve ser usado o
 ## Comando: git pull origin master
 Comando utilizado para pegar pastas e arquivo do servidor
 
+## Comando: git add *
+Para adicionar todas as motivições
+
+## Comando: git commit -m "Texto" 
+Commitar as alterações
+
 ## Comando: git push origin master
 Comando utilizado para empurrar, para enviar os commits para o servidor
 
