@@ -7,6 +7,8 @@
 ## Terceiro passo - executar o comando: git init
 (Criar todo conteudo que deverá existir na pasta)
 
-## Quarto passo - executar o comando git add
+## Quarto passo - executar o comando git add *
+(O * é pra adicionar tudo da pasta)
 
-## Quinto passo - git commit
+
+## Quinto passo - Executar o comando git commit -m "Comentário desejado sobre o commit"
